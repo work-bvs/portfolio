@@ -5,7 +5,7 @@ sort_by: Name
 menus: "main"
 weight: 3
 resources:
-  - src: newspapers_1.jpg
+  - src: newspapers_01.jpg
     params:
       cover: true
 ---

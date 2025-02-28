@@ -3,7 +3,7 @@ defaultContentLanguage = "ru"
 languageCode = 'ru-ru'
 title = ''
 theme = 'gallery'
-copyright = "© 1996-2025 | Версия 4.0"
+copyright = "© 1996-2025 | Версия 5.0"
 
 disableKinds = ['taxonomy', 'term']
 enableRobotsTXT = false
