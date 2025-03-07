@@ -8,4 +8,5 @@ resources:
   - src: newspapers_01.jpg
     params:
       cover: true
+      theme: light
 ---

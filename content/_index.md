@@ -5,5 +5,7 @@ menus:
   main:
     name: На главную
     weight: -1
+  params:
+    theme: light
 ---
 

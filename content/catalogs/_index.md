@@ -7,5 +7,5 @@ resources:
   - src: content/catalogs/print/catalog_01.jpg
     params:
       cover: true
-    
+      theme: light
 ---
