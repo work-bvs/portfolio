@@ -1,6 +1,6 @@
 ---
-# title: Галерея работ
-# description: Здесь будет текст.
+title: Галерея работ
+#description: Здесь будет текст.
 menus:
   main:
     name: На главную
